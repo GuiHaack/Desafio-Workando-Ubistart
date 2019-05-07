@@ -1,0 +1,27 @@
+.title{  
+    color: #5F4F69;
+	font-weight: bold;
+}
+.search-icon {
+    position: absolute;
+    top: 45%;
+    right: 100%;
+    margin-top: -2%;
+    color: #5DBCD2;
+}
+.circle-icon {
+    color: #5DBCD2;
+}
+.lowSize{
+    margin-bottom: -1%;
+}
+.iconAjust{
+    margin: -4%;
+}
+.nameTitle{
+    display: inline;
+    width: 100%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-image: linear-gradient(to right, #93CADD 0%, #93CADD 43%, #93CADD 43%, #5690a0 66%, #5690a0 100%);
+}

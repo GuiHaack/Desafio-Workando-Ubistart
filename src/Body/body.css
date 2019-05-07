@@ -1,0 +1,62 @@
+.section{
+    background-color: #F1F1F1;
+}
+.title{
+    color: #5F4F69;
+}
+.colorGeneric{
+    color: rgb(147,202,221)
+}
+.iconBlue{
+    color: #5DBCD2;
+}
+.borde{
+    background-color: #5DBCD2;
+}
+.status{
+    width: 100%;
+}
+.category{
+    width: 100%;
+}
+.ajust{
+    width: 100%;
+}
+.ajustMargin{
+    margin-right: 4%;
+}
+.backColorOffer{
+    background-color: rgb(148,186,196);
+    padding-top: 2%;
+    padding-bottom: 2%;
+    padding-left: 2%;
+}
+.iconOffer{
+    float: left;
+    padding-left: 2%;
+    color: white; 
+}
+.textOffer1{
+    font-weight: bold;
+    color:#5F4F69;
+    font-size: 140%;
+    margin-left: 2%;
+    text-align: left;
+    margin-bottom: -1%;
+}
+.textOffer2{
+    margin-left: 2%;
+    font-size: 110%;
+    color:#5F4F69;
+    text-align: left;
+    margin-bottom: -1%;
+    margin-top: 1%;
+}
+.textOffer3{
+    text-align: left;
+    font-size: 130%;
+    color:#5F4F69;
+    margin-left: 2%;
+    margin-bottom: -1%;
+    font-weight: bold;
+}

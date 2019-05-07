@@ -1,0 +1,36 @@
+.add{
+    padding-top: 4%;
+    padding-bottom: 4%;
+    color: rgb(187, 184, 184);
+}
+.add2{
+    padding-top: 2%;
+    color: rgb(187, 184, 184);
+}
+.editAndroid{
+    background-color: rgb(148,186,196);   
+    padding: 20%;
+}
+.footer{
+    background-color: #5F4F69;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    color: white;
+}
+.footer_{
+    background-color: #5F4F69;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    color: white;
+    text-align: left;
+}
+.title_{
+    background-color: #5F4F69;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    color: white;
+    text-align: left;
+}
+.font_bold{
+    font-weight: bold;
+}

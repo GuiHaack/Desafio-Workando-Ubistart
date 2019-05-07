@@ -1,0 +1,23 @@
+.offerBody{
+    background-color: white;
+    padding-bottom: 4%;
+    padding-top: 4%;
+    padding-left: 100%;
+    padding-right: 100%;
+}
+.titleName{
+    color: #94BAC4;
+    font-weight: bold;
+}
+.functionP{
+    color:rgb(153, 152, 153);
+}
+.textGeneric{
+    color: #C1B8B8;
+    font-size: 80%;
+    padding-bottom: -3%;
+}
+.btnSimple{
+    margin-right: 4%;
+    border-radius: 10%;
+}

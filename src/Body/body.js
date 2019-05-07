@@ -116,6 +116,38 @@ export default class Body extends React.Component {
                     </div>
                 <div className="col-lg-1"></div> 
             </div>
+            <div className="row my-3">
+                <div className="col-lg-1"></div>
+                    <div className="col-lg-10 backColorOffer">
+                        <div className="iconOffer col-lg-1"><i className="fa fa-address-book fa-5x"></i></div>
+                            <div className="float-lg-left col-lg-9">
+                                <p className="textOffer1">Nutricionista</p>
+                                <p className="textOffer2">Publicado há dois meses</p>
+                                <p className="textOffer3">Status Encerrado</p>
+                            </div>
+                        <div className="float-lg-left col-lg-2">
+                            <Button outline color="dark" className="border-0"><a className="fa fa-edit fa-2x"></a></Button>
+                            <Button outline color="dark" className="border-0"><a className="fa fa-trash fa-2x"></a></Button>
+                        </div>
+                    </div>
+                <div className="col-lg-2"></div>
+            </div>
+            <div className="row my-3">
+                <div className="col-lg-1"></div>
+                    <div className="col-lg-10 backColorOffer">
+                        <div className="iconOffer col-lg-1"><i className="fa fa-address-book fa-5x"></i></div>
+                            <div className="float-lg-left col-lg-9">
+                                <p className="textOffer1">Aulas de inglês</p>
+                                <p className="textOffer2">Publicado há dois meses</p>
+                                <p className="textOffer3">Status Encerrado</p>
+                            </div>
+                        <div className="float-lg-left col-lg-2">
+                            <Button outline color="dark" className="border-0"><a className="fa fa-edit fa-2x"></a></Button>
+                            <Button outline color="dark" className="border-0"><a className="fa fa-trash fa-2x"></a></Button>
+                        </div>
+                    </div>
+                <div className="col-lg-2"></div>
+            </div>
         </Container>
     );
  }
